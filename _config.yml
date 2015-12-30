@@ -1,0 +1,28 @@
+name: Hoganza
+favicon: null
+layout_spectrum: 0.8644707133062184
+typography_spectrum: 0.31676638242788613
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3453906551003456
+  lightness: 0.26622232841327786
+  saturation: 0.7360657274257392
+  rhythmicContrast: 0.9792196496855468
+purpose: []
